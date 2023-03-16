@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1673080076 source:d:\coding\c++\tubes_std\queue.cpp
+	"queue.h"
+	"stack.h"
+
+1673079929 d:\coding\c++\tubes_std\queue.h
+	<iostream>
+	<iostream>
+
+1673082528 source:d:\coding\c++\tubes_std\stack.cpp
+	"stack.h"
+	"queue.h"
+
+1673078701 d:\coding\c++\tubes_std\stack.h
+	<iostream>
+	<cctype>
+	<stack>
+
+1673082815 source:d:\coding\c++\tubes_std\main.cpp
+	"queue.h"
+	"stack.h"
+	"intstack.h"
+
+1673078701 source:d:\coding\c++\tubes_std\intstack.cpp
+	"intstack.h"
+
+1673078717 d:\coding\c++\tubes_std\intstack.h
+	<iostream>
+	<stack>
+
